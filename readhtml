@@ -1,0 +1,6 @@
+git clone git@github.com:yorozcoz/Dashboard_Covid.git
+cd repo
+git branch gh-pages
+# Might need to do this first: git branch -D gh-pages
+git push -u origin gh-pages # Push the new branch back to github
+Go to https://yorozcoz.github.io/Dashboard_Covid/
